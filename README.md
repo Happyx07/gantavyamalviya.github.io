@@ -1,4 +1,4 @@
-"_[gantavyamalviya.github.io](https://gantavyamalviya.github.io)_"
+"_[gantavyamalviya.github.io](https://gantavyamalviya.github.io)_" 
 
 **Welcome to the open source repository of my portfolio website**
 
